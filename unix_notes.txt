@@ -1,6 +1,6 @@
 
 # Display hidden files and directories.
-ls -a
+ls -a #use -a to show all files
 
 # single comment to commit changes
 # manual for less program
